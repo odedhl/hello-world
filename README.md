@@ -1,2 +1,3 @@
 # hello-world
-Test merge
+Welcome to github
+This is a new project
